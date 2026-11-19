@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+chroma_pdf/
+resultats_pdf/
+pdfs/
+*.png
